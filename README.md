@@ -1,2 +1,2 @@
 # FCC-html-
-Free code camp HTML
+freeCodeCamp HTML
